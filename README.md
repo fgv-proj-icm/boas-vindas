@@ -1,5 +1,7 @@
 # 👋 Boas-vindas ao Lab LEPP!
 
+Drive do Grupo: https://drive.google.com/drive/folders/1B5o3vZmh4bRenAsdd9ZdHrbWxXnhEJPZ
+
 > **Laboratório Experimental de Políticas Públicas — FGV EPPG**
 
 Se você chegou aqui, é porque faz parte do **Lab LEPP**. Este repositório é o seu ponto de partida: aqui você encontra tudo o que precisa saber para navegar nossa organização no GitHub, mesmo que nunca tenha usado a plataforma antes.
