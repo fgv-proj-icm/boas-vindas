@@ -10,12 +10,12 @@
 
 ## Status geral dos projetos
 
-| Projeto | Status | Próxima ação |
-|---|:---:|---|
-| `Public_Policy` — Bibliometria | ✅ Consolidado | Submeter artigo |
-| `pjnp-avaliacao` — PJNPs | ✅ Consolidado | Submeter ENAJUS + RSP |
-| `artigo-3-final` — BPA | 🔄 Em andamento | Design vinhetas + CEP |
-| Hub GitHub (`boas-vindas`) | ⚠️ Pendente push | Fazer push para fgv-proj-icm |
+| Projeto                           |       Status       | Próxima ação              |
+| --------------------------------- | :----------------: | ---------------------------- |
+| `Public_Policy` — Bibliometria |    em andamento    | a revisar                    |
+| `pjnp-avaliacao` — PJNPs       |    em andamento    | a revisar                    |
+| `artigo-3-final` — BPA         |  🔄 Em andamento  | Design vinhetas + CEP        |
+| Hub GitHub (`boas-vindas`)      | ⚠️ Pendente push | Fazer push para fgv-proj-icm |
 
 ---
 
@@ -59,11 +59,13 @@
 **Cronograma:** Jul–Dez 2026 · Pesquisadores: Igor, Marina, Antonio
 
 #### Maio–Junho 2026
+
 - [ ] Finalizar Artigo 1 (P1) e Artigo 2 (P2) — pré-requisito para P3
 - [ ] Completar revisão de literatura em `04_literatura/revisao_sintetica.md`
 - [ ] Revisar estrutura do artigo em `05_manuscrito/estrutura_artigo3.md`
 
 #### Junho–Julho 2026
+
 - [ ] Finalizar design das 4 vinhetas (`01_desenho/vinhetas_instrumentais.md`)
 - [ ] Realizar 3 pré-testes cognitivos das vinhetas
 - [ ] Submeter protocolo para aprovação **CEP/ENAP**
@@ -71,17 +73,20 @@
 - [ ] Finalizar roteiro de entrevista — Blocos A–D (`01_desenho/roteiro_entrevista.md`)
 
 #### Julho–Setembro 2026
+
 - [ ] Coleta empírica — 28 a 38 participantes (P01 a P38)
 - [ ] Registrar participantes em `02_campo/participantes.md` (somente códigos)
 - [ ] Transcrições anonimizadas (fora do repositório, pasta local criptografada)
 
 #### Setembro–Outubro 2026
+
 - [ ] Codificação temática usando as 7 categorias do livro de códigos
 - [ ] Preencher matrizes analíticas em `03_analise/matrizes/`
 - [ ] Redigir memos analíticos em `03_analise/memos/`
 - [ ] Verificar saturação teórica
 
 #### Outubro–Dezembro 2026
+
 - [ ] Integrar resultados P1 + P2 + P3
 - [ ] Redigir artigo completo (40–50 páginas)
 - [ ] Submeter para *Public Administration*, *JPART* ou *RBAP*
@@ -112,24 +117,24 @@ FIM DE SESSÃO
 
 ## Convenções rápidas
 
-| Símbolo | Significado |
-|---|---|
-| `- [ ]` | Pendente |
-| `- [x]` | Concluído |
-| `⚠️` | Bloqueio ou atenção necessária |
-| `✅` | Etapa/projeto concluído |
-| `🔄` | Em andamento |
-| `⚪` | Planejado (não iniciado) |
+| Símbolo  | Significado                       |
+| --------- | --------------------------------- |
+| `- [ ]` | Pendente                          |
+| `- [x]` | Concluído                        |
+| `⚠️`  | Bloqueio ou atenção necessária |
+| `✅`    | Etapa/projeto concluído          |
+| `🔄`    | Em andamento                      |
+| `⚪`    | Planejado (não iniciado)         |
 
 ---
 
 ## Histórico de itens concluídos
 
-| Data | Item |
-|---|---|
+| Data       | Item                                                                       |
+| ---------- | -------------------------------------------------------------------------- |
 | 2026-05-19 | Criação do hub `README.md` com arquitetura visual por tipo de trabalho |
-| 2026-05-19 | Criação da pasta `tutoriais/` com 4 guias passo a passo |
-| 2026-05-19 | Commit local `59bc31a` com reorganização do workspace |
+| 2026-05-19 | Criação da pasta `tutoriais/` com 4 guias passo a passo                |
+| 2026-05-19 | Commit local `59bc31a` com reorganização do workspace                  |
 
 ---
 
