@@ -1,0 +1,31 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+
+    "material-icon-theme.folders.associations": {
+        "Public_Policy":   "python",
+        "pjnp-avaliacao":  "functions",
+        "artigo-3-final":  "docs",
+        "tutoriais":       "helper",
+        "docs_lab":        "archive",
+        "01_desenho":      "tools",
+        "02_campo":        "server",
+        "02_dados":        "database",
+        "03_analise":      "functions",
+        "04_literatura":   "docs",
+        "05_manuscrito":   "docs",
+        "data":            "database",
+        "outputs":         "dist",
+        "writing":         "docs",
+        "tests":           "tests",
+        "logs":            "log",
+        "docs":            "docs",
+        "config":          "config",
+        "Inputs":          "archive"
+    },
+
+    "material-icon-theme.files.associations": {
+        "*.qmd":   "quarto",
+        "PROXIMOS_PASSOS.md": "todo",
+        "CLAUDE.md": "config"
+    }
+}
